@@ -1,0 +1,4 @@
+scikit-fem
+numpy
+matplotlib
+scipy
